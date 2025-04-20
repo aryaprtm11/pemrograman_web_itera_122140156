@@ -11,9 +11,7 @@ BookFlix merupakan sebuah website manajemen buku yang dibuat menggunakan teknolo
 - Filter buku berdasarkan status (milik, baca, beli)
 - Pencarian buku secara real-time
 - Penyimpanan data ke `localStorage`
-- Modal form interaktif untuk tambah buku
-- Slider koleksi buku bergaya Netflix
-- Validasi form
+- Popup form interaktif untuk tambah buku
 - Gambar tersimpan dalam format base64
 - Unit testing dengan React Testing Library
 
@@ -63,5 +61,7 @@ npm run dev
 ## Laporan Testing
 
 Berikut adalah hasil testing yang telah dilakukan :
+
 ![Testing 1](./src/assets/ss_test.png)
+
 ![Testing 2](./src/assets/ss_test2.png)
